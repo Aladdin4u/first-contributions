@@ -6961,4 +6961,5 @@ Duncan Ledesma
 - [Grant Yang](https://github.com/gyangle)
 - [Nnaemeka Umeh (fps).](https://github.com/fps8k)
 - [Anderson Santos](https://github.com/anderri)
+- [Inaolaji Taofeek](https://github.com/aladdin4u)
 <!-- prettier-ignore-end -->
